@@ -30,7 +30,7 @@ public class Nth_Tribonacci_Number_1137 {
 	
 	/*
 	 * Bottom-up Dynamic Programming
-	 * Complexity: Time: O(n), Space: O(n)
+	 * Complexity: Time: O(1), Space: O(n)
 	 */
 	
     public int tribonacci(int n) {
