@@ -2,8 +2,13 @@ package arrays_strings;
 
 import java.util.HashMap;
 
+// Tag: Medium
+
 public class Longest_Substring_Without_Repeating_Characters_3 {
 
+	/*
+	 * Complexity: Time: O(n), Space: O(n)
+	 */
     public int lengthOfLongestSubstring(String s) {
         int start=0, max= 0;
         if(s.length() == 0)
