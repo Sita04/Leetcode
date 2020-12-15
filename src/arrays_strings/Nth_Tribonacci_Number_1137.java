@@ -1,5 +1,7 @@
 package arrays_strings;
 
+// Tag: Easy
+
 public class Nth_Tribonacci_Number_1137 {
 
 	/*
